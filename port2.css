@@ -17,6 +17,9 @@
     --big-font:5rem;
     --p-font: 1rem;   
 }
+body::-webkit-scrollbar{
+    display: none;
+}
 
 body{
     background: var(--bg-color);
